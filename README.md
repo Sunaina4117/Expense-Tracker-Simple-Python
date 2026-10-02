@@ -48,12 +48,14 @@ You can check by running:
 python --version
 
 2. Clone the Repository
-git clone https://github.com/your-username/expense-tracker.git
+```python
+git clone https://github.com/Sunaina4117/Expense-Tracker-Simple-Python.git
+```
 
-3. Navigate to the Project Folder
+4. Navigate to the Project Folder
 cd expense-tracker
 
-4. Run the Program
+5. Run the Program
 python expense_tracker.py
 
 🎯 How to Use
